@@ -24,8 +24,7 @@
 		<sonar.host.url>http://3.17.78.96:9000/</sonar.host.url>
 		
 		
-                <sonar.login>admin</sonar.login>
-		<sonar.password>Rahulgoogle@123</sonar.password>
+                <sonar.login>52f295e91573fb2af7656e778f975865f4922d2a</sonar.login>
 		 
               
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
